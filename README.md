@@ -1,4 +1,4 @@
-# -------->  Problem Qestion Sets : Practice <-------
+# -------->  Problem Sets for Practice <-------
 # 1. WAC to generate Even numbers in range of 1-100
 # 2. WAC to generate odd numbers in range of 1-100
 # 3. WAC to generate Random even numbers in range of 1-100
