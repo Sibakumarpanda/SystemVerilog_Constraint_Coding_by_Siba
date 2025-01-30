@@ -1,4 +1,4 @@
-# -------->  Problem Sets : SystemVerilog Constraints Practice <-------
+# -------->  Problem Qestion Sets : Practice <-------
 # 1. WAC to generate Even numbers in range of 100
 # 2. WAC to generate odd numbers in range of 100
 # 3. WAC to generate Random even numbers in range of 100
