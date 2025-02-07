@@ -1,8 +1,8 @@
 # -------->  Problem Sets for Practice <-------
 # 1. WAC to generate Even numbers in range of 1-100
 # 2. WAC to generate odd numbers in range of 1-100
-# 3. WAC to generate Random even numbers in range of 1-100
-# 4. WAC to generate Random odd numbers in range of 1-100
+# 3. WAC to generate random even numbers in range of 1-100 which are multiples of 4
+# 4. WAC to generate random odd numbers in range of 1-100 which are multiples of 5
 # 5. WAC to generate 32-bit variable with exactly 16 consecutive 1's
 # 6. WAC to generate 32-bit variable with exactly 12 non-consecutive 1's
 # 7. WAC to generate 62-bit variable with specific bit patterns
