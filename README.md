@@ -17,7 +17,7 @@
      (k). WAC to generate 32-bit variable with exactly 16 Non-consecutive 1's, starting from LSB position .  without using $countones
      (l). WAC to generate 32-bit variable with exactly 16 Non-consecutive 1's,starting from MSB position .- without using $countones
 # 6. WAC to generate 32-bit variable with exactly 12 non-consecutive 1's
-# 7. WAC to generate 62-bit variable with specific bit patterns
+# 7. WAC to generate 62-bit variable with specific bit patterns (Ex: requirement is to  have 31 consecutive 1's followed by 15 consecutive 0's followed by rest to be random values )
 # 8. WAC to generate 16-bit variable with no consecutive 1's
 # 9. WAC to generate 32-bit number with exactly one high bit
 # 10.WAC to generate Specific value generation (25, 27, 30, 36, 40, 45)
@@ -58,3 +58,22 @@
 # 45.WAC to generate Increasing order value generation
 # 46.WAC to generate 2D array with specific constraints
 # 47.WAC to generate 2D array consecutive elements
+# WAC to generate pattern of 6 continuous 1's in 16 bit variable 
+# WAC to generate pattern 001100110011 pattern 
+# WAC to generate pattern 5 continuous 1's 
+# WAC to generate pattern 1100110011001100 
+# WAC to generate pattern 1010101010 and 010101010
+# WAC to generate pattern of 0102020405
+# WAC to generate pattern of 00100200300400500
+# WAC to generate pattern of 9,19,29,39,49,59,69
+# WAC to generate pattern 5,-10,15,-20,25,-30,35,-40
+# WAC to generate pattern 0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7
+# WAC to generate pattern 0,0,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,6,7,7,7
+# WAC to generate pattern 0,0,0,0,1,1,1,1,2,2,2,2,,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6,6,7,7,7,7
+# WAC to generate even numbers in odd location and odd numbers in even location in a dynamic array of size 100.
+# WAC to generate unique values in a a dynamic array of size 100 without using unique keyword
+# WAC to generate consecutive element in a 2D dynamic array
+# WAC to generate random values between 1-100 without any keyword in a fixed size array of 5x5. (Hint : you can take data type as : int a [5] [5]) 
+# WAC to generate random values in ascending and descending order in a dynamic array of size 20.
+# WAC to generate 4x4 matrices with elements of size 4bits in such a way that , the two diagonal have the same value.
+
