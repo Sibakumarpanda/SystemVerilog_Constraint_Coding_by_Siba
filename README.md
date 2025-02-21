@@ -16,7 +16,8 @@
      (j). WAC to generate 32-bit variable with exactly 16 Non-consecutive 1's ,starting from random place. without using $countones
      (k). WAC to generate 32-bit variable with exactly 16 Non-consecutive 1's, starting from LSB position .  without using $countones
      (l). WAC to generate 32-bit variable with exactly 16 Non-consecutive 1's,starting from MSB position .- without using $countones
-# 6. WAC to generate 32-bit variable with exactly 12 non-consecutive 1's
+# 6. (a).WAC to generate 32-bit variable with exactly 12 non-consecutive 1's
+# 6. (b).WAC to generate 32-bit variable with exactly 12 consecutive 1's
 # 7. WAC to generate 62-bit variable with specific bit patterns (Ex: requirement is to have 31 consecutive 1's followed by 15 consecutive 0's followed by rest to be random values )
 # 8. WAC to generate 16-bit variable with non consecutive 1's
 # 9. WAC to generate 32-bit number with exactly one high bit.
