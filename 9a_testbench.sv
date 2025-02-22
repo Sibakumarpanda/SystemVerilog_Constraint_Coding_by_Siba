@@ -1,7 +1,7 @@
-//9. WAC to generate 32-bit number with exactly one high bit.
+//9a. WAC to generate 32-bit number with exactly one high bit.
 class my_packet;  
   rand bit [31:0] a; 
-  constraint c1 {$onehot(a) ==1;}  
+  constraint c1 {$onehot(a);}  
 endclass
 
 module tb_top;  
