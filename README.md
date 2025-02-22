@@ -29,7 +29,7 @@
 # 13.WAC to generate 32-bit number with exactly one high bit using bit manipulation technique
 # 14.WAC to generate 4-variables with unique 4bit-value history constraint
 # 15.WAC to generate Pattern of 0101010101
-# 16.WAC to generate a Sequence of 0102030405
+# 16.WAC to generate a Sequence of 010203040506070809010
 # 17.WAC to generate 10-bit alternating numbers
 # 18.WAC to generate a sequence of 1122334455
 # 19.WAC to generate Palindrome sequence 1234554321
