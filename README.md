@@ -26,7 +26,7 @@
 # 10.WAC to generate Specific value generation (25, 27, 30, 36, 40, 45)
 # 11.WAC to generate 33-bit variable with specific bit patterns(requirement is to have 16 consecutive 1's followed by 16 consecutive 0's followed by rest to be 1's )
 # 12.WAC to generate 16-bit variable with 9consecutive 1's from LSB side
-# 13.WAC to generate 32-bit number with exactly one high bit
+# 13.WAC to generate 32-bit number with exactly one high bit using bit manipulation technique
 # 14.WAC to generate 4-variable unique value history constraint
 # 15.WAC to generate Pattern of 01010101
 # 16.WAC to generate a Sequence of 0102030405
