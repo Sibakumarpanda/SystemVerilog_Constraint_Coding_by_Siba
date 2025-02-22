@@ -20,7 +20,9 @@
 # 6. (b).WAC to generate 32-bit variable with exactly 12 consecutive 1's
 # 7. WAC to generate 62-bit variable with specific bit patterns (Ex: requirement is to have 31 consecutive 1's followed by 15 consecutive 0's followed by rest to be random values )
 # 8. WAC to generate 16-bit variable with non consecutive 1's
-# 9. WAC to generate 32-bit number with exactly one high bit.
+# 9. (a).WAC to generate 32-bit number with exactly one high bit.
+# 9. (b).WAC to generate 32-bit number with exactly one high bit with out using any system function
+# 9. (c).WAC to generate 32-bit number with exactly one low bit and others as high bit with out using any system function.
 # 10.WAC to generate Specific value generation (25, 27, 30, 36, 40, 45)
 # 11.WAC to generate 33-bit variable with specific bit patterns(requirement is to have 16 consecutive 1's followed by 16 consecutive 0's followed by rest to be 1's )
 # 12.WAC to generate 16-bit variable with consecutive 1's
