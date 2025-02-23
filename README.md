@@ -36,7 +36,7 @@
 # 19.WAC to generate a sequence as 1234554321
 # 20.WAC to generate a Pattern of 122112211
 # 21.WAC to generate Even numbers in odd positions and a value of 50 in all even positions with in range 1-100
-# 22.WAC to generate Unique multiples of 3 with in 100
+# 22.WAC to generate Unique multiples of 3 and 5 with in 100
 # 23.WAC to generate Consecutive numbers in array with in 50
 # 24.WAC to generate Non-consecutive numbers in an array with in 50
 # 25.WAC to generate Payload data in between 30 to 70 which is divisible by 5
