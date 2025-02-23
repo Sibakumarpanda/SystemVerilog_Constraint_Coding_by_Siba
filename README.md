@@ -31,7 +31,8 @@
 # 15.WAC to generate Pattern of 0101010101
 # 16.WAC to generate a Sequence of 010203040506070809010
 # 17.WAC to generate 10-bit alternating numbers
-# 18.WAC to generate a sequence of 1122334455
+# 18. (a) WAC to generate a sequence of 00112233445566778899
+# 18. (b) WAC to generate a sequence of 112233445566778899
 # 19.WAC to generate Palindrome sequence 1234554321
 # 20.WAC to generate a Pattern of 122112211
 # 21.WAC to generate Even numbers in odd positions with in 100
