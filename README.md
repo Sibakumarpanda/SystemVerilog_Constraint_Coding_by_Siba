@@ -41,7 +41,7 @@
 # 24.WAC to generate Non-consecutive numbers in an array with in 50
 # 25.WAC to generate Payload data in between 30 to 70 which is divisible by 5
 # 26.WAC to generate Floating-point number in between 1-10
-# 27.WAC to generate 2D array unique elements
+# 27.WAC to generate unique elements in 2D array
 # 28.WAC to generate alternating pairs in between 30.
 # 29.WAC to generate 3-bit numbers between where a single bit get randomized
 # 30.WAC to generate 4bit Gray code sequence generation
