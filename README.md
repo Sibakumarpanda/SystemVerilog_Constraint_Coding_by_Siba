@@ -45,8 +45,8 @@
 # 28.WAC to generate alternating pairs sum to 30
 # 29.WAC to generate 3-bit numbers where a single bit get randomized
 # 30.WAC to generate 4bit Gray code sequence generation
-# 31.WAC to generate Factorial generation of a number
-# 32.WAC to generate Fibonacci series
+# 31.WAC/logic to generate Factorial of a a random number
+# 32.WAC/logic to generate Fibonacci series
 # 33.WAC to generate Palindrome numbers between 1-100
 # 34.WAC to generate Prime numbers between 100
 # 35.WAC to generate Armstrong number verification
@@ -80,4 +80,5 @@
 # 63.WAC to generate random values between 1-100 without any keyword in a fixed size array of 5x5. (Hint : you can take data type as : int a [5] [5]) 
 # 64.WAC to generate random values in ascending and descending order in a dynamic array of size 20.
 # 65.WAC to generate 4x4 matrices with elements of size 4bits in such a way that , the two diagonal have the same value.
+# 66.WAC/logic to find the largest number in a Dynamic array of 10 random element
 
