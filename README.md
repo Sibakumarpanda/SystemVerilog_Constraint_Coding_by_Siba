@@ -43,7 +43,7 @@
 # 26.WAC to generate Floating-point number in between 1-10
 # 27.WAC to generate unique elements in 2D array
 # 28.WAC to generate alternating pairs sum to 30
-# 29.WAC to generate 3-bit numbers between where a single bit get randomized
+# 29.WAC to generate 3-bit numbers where a single bit get randomized
 # 30.WAC to generate 4bit Gray code sequence generation
 # 31.WAC to generate Factorial generation of a number
 # 32.WAC to generate Fibonacci series
