@@ -54,7 +54,7 @@
 # 32.WAC/logic to generate Fibonacci series
 # 33.WAC to generate Palindrome numbers between 1-100
 # 34.WAC to generate Prime numbers between 100
-# 35.WAC to generate Armstrong number between 100-1000.
+# 35.WAC to generate Armstrong number between 1-1000.
 # 36. (a) WAC to generate 10 Unique numbers in between 1-50 without using unique keyword
 # 36. (b) WAC to generate 10 Unique numbers in between 1-50 without using unique keyword in a Dynamic array
 # 36. (c) WAC to generate 10 Unique numbers in between 1-50 using unique keyword
