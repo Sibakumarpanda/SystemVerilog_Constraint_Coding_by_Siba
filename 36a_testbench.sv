@@ -18,3 +18,17 @@ module tb_top;
   end
   
 endmodule  
+
+//Output
+Compiler version U-2023.03-SP2_Full64; Runtime version U-2023.03-SP2_Full64;  Mar 23 05:17 2025
+The Generated Unique number in 0 iteration : a=17
+The Generated Unique number in 1 iteration : a=20
+The Generated Unique number in 2 iteration : a=37
+The Generated Unique number in 3 iteration : a=39
+The Generated Unique number in 4 iteration : a=48
+The Generated Unique number in 5 iteration : a=49
+The Generated Unique number in 6 iteration : a=33
+The Generated Unique number in 7 iteration : a=50
+The Generated Unique number in 8 iteration : a=22
+The Generated Unique number in 9 iteration : a=12
+           V C S   S i m u l a t i o n   R e p o r t 
