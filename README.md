@@ -57,8 +57,7 @@
 # 35.WAC to generate Armstrong number between 1-1000.
 # 36. (a) WAC to generate 10 Unique numbers in between 1-50 without using unique keyword
 # 36. (b) WAC to generate 10 Unique numbers in between 1-50 without using unique keyword in a Dynamic array
-# 36. (c) WAC to generate 10 Unique numbers in between 1-50 using unique keyword
-# 36. (d) WAC to generate 10 Unique numbers in between 1-50 using unique keyword in a Dynamic array
+# 36. (c) WAC to generate 10 Unique numbers in between 1-50 using unique keyword in a Dynamic array
 # 37.WAC to generate Non-randomize unique numbers in between 1-50
 # 38.WAC to generate dynamic array values in between 1-20 in ascending order(sorting)
 # 39.WAC to generate dynamic array values in between 1-20 in descending order(sorting)
