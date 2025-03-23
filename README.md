@@ -59,8 +59,8 @@
 # 36. (b) WAC to generate 10 Unique numbers in between 1-50 without using unique keyword in a Dynamic array
 # 36. (c) WAC to generate 10 Unique numbers in between 1-50 using unique keyword in a Dynamic array
 # 37.WAC to generate Non-randomize unique numbers in between 1-50
-# 38.WAC to generate dynamic array values in between 1-20 in ascending order(sorting)
-# 39.WAC to generate dynamic array values in between 1-20 in descending order(sorting)
+# 38.WAC to generate 20 dynamic array values in between 1-100 in ascending order(sorting)
+# 39.WAC to generate 20 dynamic array values in between 1-100 in descending order(sorting)
 # 40.WAC to generate three consecutive numbers with sum as 33 
 # 41.WAC to generate three non consecutive numbers with sum as 10 
 # 42.WAC to generate unique values in range 1-20 in an Queue 
