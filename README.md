@@ -68,7 +68,10 @@
 # 43.WAC to generate alternating positive-negative sequence
 # 44.WAC to generate Number series with fixed increment of 2 in the range 1-30
 # 45.WAC to generate Increasing order value generation
-# 46.WAC to generate 2D array with specific constraints
+# 46.Declare a 2D array with 3 rows and 4 columns, Generates elements in it with below specified constraints
+     -Each element is an integer between 1 and 100. 
+     -The sum of all elements in each row should be less than 200. 
+     -The values within each row must be sorted in ascending order.
 # 47.WAC to generate 2D array consecutive elements
 # 48.WAC to generate pattern of 6 continuous 1's in 16 bit variable 
 # 49.WAC to generate pattern 001100110011 pattern 
