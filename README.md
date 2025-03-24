@@ -92,4 +92,6 @@
 # 64.WAC to generate random values in ascending and descending order in a dynamic array of size 20.
 # 65.WAC to generate 4x4 matrices with elements of size 4bits in such a way that , the two diagonal have the same value.
 # 66.WAC/logic to find the largest number in a Dynamic array of 10 random element
+# 67.Generate multiples of 7 without using rand keyword and constraints in a class
+# 68.Perform cyclic randomization with using rand keyword in system verilog class. Note that , you should not use randc keyword
 
