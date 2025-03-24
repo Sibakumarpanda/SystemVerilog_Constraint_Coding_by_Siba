@@ -10,7 +10,7 @@ class packet ;
        d[i] inside {[1:100]}; // Each number is between 1 and 100
      }
    }   
-   // Constraint to ensure the values are in ascending order,ensure each value is greater than or equal to the previous value
+   // Constraint to ensure the values are in Descending order,ensure each value is Lesser than or equal to the previous value
    constraint c3 {
       foreach (d[i]) {
         if (i > 0) 
