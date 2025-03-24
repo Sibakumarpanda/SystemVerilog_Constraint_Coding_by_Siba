@@ -63,7 +63,8 @@
 # 39.WAC to generate 20 dynamic array values in between 1-100 in descending order(sorting)
 # 40.WAC to generate three consecutive numbers with sum as 33 
 # 41.WAC to generate three non consecutive numbers with sum as 10 
-# 42.WAC to generate unique values in range 1-20 in an Queue 
+# 42. (a) WAC to generate 10 unique values in range 1-20 in a Queue with out using unique keyword
+# 42. (b) WAC to generate 10 unique values in range 1-20 in a Queue using Unique keyword
 # 43.WAC to generate alternating positive-negative sequence
 # 44.WAC to generate Number series with fixed increment of 2 in the range 1-30
 # 45.WAC to generate Increasing order value generation
