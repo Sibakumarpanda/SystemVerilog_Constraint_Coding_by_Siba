@@ -78,7 +78,7 @@
 # 50.WAC to generate pattern of 15 ,1's in a 16bit variable and for the rest 1 bit let tool decide its position. Randomize the 16bit variable 10 times.
 # 51.WAC to generate pattern 1100110011001100 
 # 52.WAC to generate pattern 1010101010 and 010101010
-# 53.WAC to generate pattern of 0102020405
+# 53.WAC to generate pattern of 010202040506070809
 # 54.WAC to generate pattern of 00100200300400500
 # 55.WAC to generate pattern of 9,19,29,39,49,59,69
 # 56.WAC to generate pattern 5,-10,15,-20,25,-30,35,-40
