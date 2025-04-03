@@ -74,8 +74,8 @@
      -The values within each row must be sorted in ascending order.
 # 47.Declare a 2D array with 3 rows and 4 columns, WAC to generate consecutive elements in each row and column
 # 48.WAC to generate pattern of 6 continuous 1's in 16 bit variable 
-# 49.WAC to generate pattern 001100110011 pattern 
-# 50.WAC to generate pattern 5 continuous 1's 
+# 49.WAC to generate pattern of 001100110011 
+# 50.WAC to generate pattern of 15 ,1's in a 16bit variable and for the rest 1 bit let tool decide its position. Randomize the 16bit variable 10 times.
 # 51.WAC to generate pattern 1100110011001100 
 # 52.WAC to generate pattern 1010101010 and 010101010
 # 53.WAC to generate pattern of 0102020405
