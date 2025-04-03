@@ -27,7 +27,7 @@ module tb_top;
     
     for (int i=0; i<20;i++) begin
       pkt.randomize();     
-      $display("a=%b",pkt.a)     
+      $display("a=%b",pkt.a) ;     
     end    
   end 
 endmodule  
