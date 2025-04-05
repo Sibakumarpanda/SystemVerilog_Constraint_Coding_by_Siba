@@ -85,7 +85,7 @@
 # 57.WAC to generate pattern 0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9
 # 58.WAC to generate pattern 0,0,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,6,7,7,7
 # 59.WAC to generate pattern 0,0,0,0,1,1,1,1,2,2,2,2,,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6,6,7,7,7,7
-# 60.WAC to generate even numbers in odd location and odd numbers in even location in a dynamic array of size 100.
+# 60.WAC to generate even numbers in odd location and odd numbers in even location in a dynamic array of size 30.
 # 61.WAC to generate unique values in a a dynamic array of size 100 without using unique keyword
 # 62.WAC to generate consecutive element in a 2D dynamic array
 # 63.WAC to generate random values between 1-100 without any keyword in a fixed size array of 5x5. (Hint : you can take data type as : int a [5] [5]) 
