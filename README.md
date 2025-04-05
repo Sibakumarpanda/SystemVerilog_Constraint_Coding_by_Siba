@@ -81,7 +81,7 @@
 # 53.WAC to generate pattern of 010203040506070809
 # 54.WAC to generate pattern of 00100200300400500
 # 55.WAC to generate pattern of 9,19,29,39,49,59,69
-# 56.WAC to generate pattern 5,-10,15,-20,25,-30,35,-40
+# 56.WAC to generate pattern 5,-10,15,-20,25,-30,35,-40,45,-50,55,-60
 # 57.WAC to generate pattern 0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7
 # 58.WAC to generate pattern 0,0,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,6,7,7,7
 # 59.WAC to generate pattern 0,0,0,0,1,1,1,1,2,2,2,2,,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6,6,7,7,7,7
