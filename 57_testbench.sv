@@ -1,7 +1,7 @@
 //57.WAC to generate pattern 0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9
 class my_packet;  
   rand int d[]; 
-  constraint c1 {d.size() == 20;} // The pattern has 15 elements  
+  constraint c1 {d.size() == 20;}  
   constraint c2 { 
     foreach (d[i])      
       if (i<2)
