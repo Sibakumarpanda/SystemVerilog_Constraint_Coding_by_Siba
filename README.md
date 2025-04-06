@@ -11,10 +11,10 @@
 # 5. Questions on generating value for specific bits in a random data
      (a). WAC to generate 32-bit variable with exactly 16 consecutive 1's ,starting from random place with using $countones
      (b). ⁠WAC to generate 32-bit variable with exactly 16 consecutive 1's, starting from LSB position with using $countones
-     (⁠c). WAC to generate 32-bit variable with exactly 16 consecutive 1's,starting from MSB position  with using $countones
+     //(⁠c). WAC to generate 32-bit variable with exactly 16 consecutive 1's,starting from MSB position  with using $countones
      (d). WAC to generate 32-bit variable with exactly 16 consecutive 1's ,starting from random place without using $countones
      (e). WAC to generate 32-bit variable with exactly 16 consecutive 1's, starting from LSB position without using $countones
-     (f). WAC to generate 32-bit variable with exactly 16 consecutive 1's,starting from MSB position  without using $countones
+     //(f). WAC to generate 32-bit variable with exactly 16 consecutive 1's,starting from MSB position  without using $countones
      (⁠g). WAC to generate 32-bit variable with exactly 16 Non-consecutive 1's ,starting from random place with using $countones
      (h). WAC to generate 32-bit variable with exactly 16 Non-consecutive 1's, starting from LSB position with using $countones
      (i). WAC to generate 32-bit variable with exactly 16 Non-consecutive 1's,starting from MSB position with using $countones
