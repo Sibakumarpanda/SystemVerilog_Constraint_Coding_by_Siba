@@ -1,8 +1,14 @@
+//------------------------------------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+//(c) Copyright Siba Kumar Panda, All rights reserved
+// File    : 1_testbench.sv 
+// Project : SystemVerilog_Constraint_Coding_by_Siba
+// Purpose : WAC to generate Even numbers in range of 1-100
+// Author  : Siba Kumar Panda
+////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Question1: WAC to generate Even numbers in range of 1-100
 class my_packet;
-  
-  rand bit [6:0] a; 
-  
+  rand bit [6:0] a;   
   constraint c1 {a >1; a< 100;}
   constraint c2 {a %2 ==0;}
   
