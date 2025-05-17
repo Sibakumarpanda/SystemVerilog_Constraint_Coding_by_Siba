@@ -1,5 +1,5 @@
 # *****************************
-# 👯 Acknowledgments : System Verilog community members , Open Source resources and Verification experts who have helped a lot in guiding me.
+# 👯 Acknowledgments : System Verilog community members , Open Source resources and Verification experts who have helped a lot and guided me.
 # 🤔 Encouragement   : Don't forget to star this repository if you find it helpful throughout your learning !!!
 # ⚡ GitHub Repo     : https://github.com/Sibakumarpanda/SystemVerilog_Constraint_Coding_by_Siba
 # *****************************
